@@ -29,4 +29,4 @@ docker run -d \
   # http:
   # use_x_forwarded_for: true
   # trusted_proxies:
-  #  - XXX.XXX.XXX.XXX # Add the IP address of the proxy server
+  #  - XXX.XXX.XXX.XXX # Add the IP address of the server
